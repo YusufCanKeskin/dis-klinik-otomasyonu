@@ -1,0 +1,42 @@
+{
+  "patients": {
+    "17134355470": {
+      "id": "428c71e9-c116-42a0-97c0-8256c648750d",
+      "ad": "Yusuf Can",
+      "soyad": "Keskin",
+      "tc": "17134355470",
+      "dogum_tarihi": "2002-03-14",
+      "telefon": "5059419708",
+      "e_posta": "ornidonesos@gmail.com",
+      "not_": "implant yapılacak"
+    },
+    "45698511265": {
+      "id": "02e7da69-f4f8-4a1d-9cc1-d46a4581e5bf",
+      "ad": "Mustafa",
+      "soyad": "Sönmez",
+      "tc": "45698511265",
+      "dogum_tarihi": "2001-11-19",
+      "telefon": "5569851463",
+      "e_posta": "mustafasnmz@gmail.com",
+      "not_": ""
+    }
+  },
+  "appointments": [
+    {
+      "id": "3e2a4a9c-0101-40e9-8ddc-5f7e6d906e43",
+      "hasta_tc": "17134355470",
+      "tarih_saat": "2025-05-15 12:00",
+      "dis_hekim_adi": "Doğukan Çelik",
+      "islem": "İmplant",
+      "ucret": 50000.0
+    },
+    {
+      "id": "e8ed4462-d475-4854-bb8d-be019d37dd6b",
+      "hasta_tc": "17134355470",
+      "tarih_saat": "2025-05-16 12:00",
+      "dis_hekim_adi": "Doğukan Çelik",
+      "islem": "Kontrol",
+      "ucret": 200.0
+    }
+  ]
+}
